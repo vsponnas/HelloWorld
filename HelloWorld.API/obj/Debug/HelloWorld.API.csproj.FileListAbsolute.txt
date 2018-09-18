@@ -1,0 +1,5 @@
+C:\temp\HelloWorld.API\obj\Debug\HelloWorld.API.csprojResolveAssemblyReference.cache
+C:\temp\HelloWorld.API\bin\Debug\HelloWorld.API.pdb
+C:\temp\HelloWorld.API\obj\Debug\HelloWorld.API.pdb
+C:\temp\HelloWorld.API\bin\Debug\HelloWorld.API.exe
+C:\temp\HelloWorld.API\obj\Debug\HelloWorld.API.exe
